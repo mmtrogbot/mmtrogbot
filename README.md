@@ -1,8 +1,9 @@
 WELCOME TO MY GIT :3
 
-- 👋 Hi, I’m @mmtrogbot
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Hanoi University of Science and Technology
-- 💞️ I’m looking to collaborate on Object-Oriented Programming
-- 📫 Contact for work: minhtrong2k@gmail.com
-
+- 🔭 I’m currently studying on Hanoi University of Science and Technology
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on Object-Oriented Programming
+- 🤔 I’m looking for help with OOP
+- 💬 Ask me about Java
+- 📫 How to reach me: minhtrong2k@gmail.com
+- ⚡ Fun fact: Sometimes you win, sometimes you learn.
